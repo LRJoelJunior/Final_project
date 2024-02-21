@@ -1,12 +1,12 @@
 a{color:chocolate;
-    background-color: beige; 
-    text-decoration: underline;
-    border-style: dashed;
-    border-top-color: bisque;
-    border-left-color: bisque;
-    text-align: center;
-    }
-    
+  background-color: beige; 
+  text-decoration: underline;
+  border-style: dashed;
+  border-top-color: bisque;
+  border-left-color: bisque;
+  text-align: center;
+  }
+  
     h2{
       font-size: x-large;
       color: red;
@@ -28,17 +28,17 @@ a{color:chocolate;
        background-color:burlywood;
        border-color:chocolate
     }
-    h6{font-size: medium;
-       color:black;
-       border-style: dashed;
-       border-color: chocolate;
-       background-color:palegoldenrod;
+    h6{font-size:large;
+       color:brown;
+      text-decoration:underline; 
+      text-size-adjust: 5px;
+
     }
     ul{display:flex ;justify-content: center;}
     li{margin: right 10px;list-style:none ;}
     
     body{
-    background-color:bisque;
+    background-image:url(https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_zoom/public/atoms/images/CAR/lpdp_25820-2.jpg?itok=Vi0WbWxy);
     border: solid red;  
     }
     
@@ -86,3 +86,8 @@ a{color:chocolate;
     grid: template rows: 100px 200px 300px;
     
     }
+
+.img_resume{height: 135px;
+  border:solid 5px black;;
+}
+
